@@ -1,5 +1,5 @@
 %________________________________________________________
-%E2.Se creeaz? un fi?ier nou care trebuie salvat în directorul d:/student/pns/nrgrupa
+%E2.Se creeaz? un fi?ier nou care trebuie salvat ï¿½n directorul d:/student/pns/nrgrupa
 %Folosind sintaxele ?i indica?iile din sec?iunile 1.2.6. ?i 1.2.7. realiza?i un program
 %MATLAB care s? genereze un vector cu elemente aleatoare cu distribu?ie
 %normal? (gaussian?) ?i s? afi?eze elementele negative ale acestui vector.
