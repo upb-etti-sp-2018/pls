@@ -7,7 +7,8 @@
 %- o matrice ob?inut? din înmul?irea vectorului ini?ial cu transpusul s?u.
     
 
-    real=randi([-100 100], 1, 5);
-    im=randi([-100 100], 1, 5)*i;
+    real=randi([-10 10], 1, 3);
+    im=randi([-10 10], 1, 3)*i;
     z=real+im
+    functie(real,im);
     
